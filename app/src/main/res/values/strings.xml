@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">BottomSheetDialogExample</string>
+    <string name="app_name">릴스 다운로더</string>
+    <string name="subtitle">인스타그램 릴스를 간편하게 저장하세요</string>
+    <string name="hint_url">인스타그램 릴스 링크를 붙여넣으세요</string>
+    <string name="btn_paste">붙여넣기</string>
+    <string name="btn_download">다운로드</string>
+    <string name="how_to_use">사용 방법</string>
+    <string name="instructions">1. 인스타그램에서 릴스의 공유 버튼을 누르세요\n2. \"링크 복사\" 또는 이 앱으로 공유하세요\n3. 공유하면 자동으로 다운로드가 시작됩니다!\n\n저장 위치: Movies/ReelsDownloader</string>
 </resources>
